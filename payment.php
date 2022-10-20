@@ -8,7 +8,7 @@ use GuzzleHttp\Exception\RequestException;
 class Payment
 {
     private $merchantToken = "Basic TUVSQ0hBTlRfUEFZTUVOVF9HQVRFV0FZOk1lcmNoYW50R2F0ZXdheUBBZG1pbiMxMjM="; 
-    private $username = "7500077973";  
+    private $username = "7590077954";  
     private $password = "135758";    
     private $grantType = "password";
     private $transactionPin = "135758";   
